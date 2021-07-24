@@ -7,5 +7,7 @@ public class PruebaProyecto24072021 {
         System.out.println("Primera línea de código.");
         
         System.out.println("Línea de rama de José Carlos");
+        
+        System.out.println("Otra línea de Daniel.");
     }
 }
